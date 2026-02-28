@@ -25,6 +25,5 @@ for (const char of str) {
     }
 }
 
-console.log(frequencyMap);
-
+console.log(frequencyMap);// { j: 1, a: 2, v: 1, S: 1, c: 1, r: 1, i: 1, p: 1, t: 1 }
 
